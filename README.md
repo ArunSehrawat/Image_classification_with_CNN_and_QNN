@@ -10,12 +10,12 @@ The "FashionMNIST" dataset covers ten different clothing categories, including T
 
 **(1)** In an attached Jupyter notebook, I have presented the **Convolutional Neural Networks (CNNs)** for the task.
 
-**(2)** In another notebook, I have presented the **Quantum Neural Networks (QNNs)** for the task **[it is coming soon...]**
+**(2)** In another notebook, I have presented the **Quantum Neural Network (QNN)** for the task **[it is coming soon...]**
 
 -------
 
 We have also uploaded:  
-**(3) quantum circuit simulator** (used in above notebooks)
+**(3) quantum circuit simulator** (used in QNN)
 
 **(4)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
 
