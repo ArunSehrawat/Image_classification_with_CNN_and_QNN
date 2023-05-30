@@ -14,7 +14,7 @@ The "FashionMNIST" dataset covers ten different clothing categories, including T
 
 -------
 
-We have also uploaded:  
+I have also uploaded:  
 **(3) quantum circuit simulator** (used in QNN)
 
 **(4)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
