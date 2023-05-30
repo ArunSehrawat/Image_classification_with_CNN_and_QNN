@@ -20,6 +20,14 @@ I have also uploaded:
 **(4)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
 
 -------
+![CNNs](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf) is a CNN
+
+![LeNET5](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/21d097f2-d958-4100-bf90-0ffdb3360017)
+
+**QNN**
+![QNN](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/febb497c-1dd7-4517-8ea4-4c1871c6540b)
+
+-------
 
 ![pred_CNN](https://github.com/ArunSehrawat/Image_classification_with_CNN/assets/99533657/169936fb-72c7-436c-b069-2e43f0ad49ae)
 
