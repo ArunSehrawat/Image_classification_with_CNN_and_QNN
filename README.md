@@ -19,7 +19,7 @@ I have also uploaded:
 
 **(4)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
 
-
+=====================
 
 ![pred_CNN](https://github.com/ArunSehrawat/Image_classification_with_CNN/assets/99533657/169936fb-72c7-436c-b069-2e43f0ad49ae)
 
