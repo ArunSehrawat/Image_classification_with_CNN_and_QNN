@@ -8,9 +8,9 @@ The "FashionMNIST" dataset covers ten different clothing categories, including T
 
 -------
 
-**(1)** In an attached Jupyter notebook, I have presented the convolutional neural networks (CNNs) for the task.
+**(1)** In an attached Jupyter notebook, I have presented the **Convolutional Neural Networks (CNNs)** for the task.
 
-**(2)** In another notebook, I have presented the Quantum Neural Networks (CNNs) for the task **[it is coming soon...]**
+**(2)** In another notebook, I have presented the **Quantum Neural Networks (QNNs)** for the task **[it is coming soon...]**
 
 -------
 
