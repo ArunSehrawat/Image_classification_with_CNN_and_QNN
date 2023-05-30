@@ -12,6 +12,10 @@ The "FashionMNIST" dataset covers ten different clothing categories, including T
 
 ![LeNET5](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/21d097f2-d958-4100-bf90-0ffdb3360017)
 
+Image (LeNET-5) source: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+
+-----
+
 **(2)** In another notebook, I have presented the **Quantum Neural Network (QNN)** for the task.
 
 ![QNN](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/febb497c-1dd7-4517-8ea4-4c1871c6540b)
