@@ -5,3 +5,6 @@ where the implementation is done using PyTorch. The CNNs are trained on the "MNI
 
 
 ![pred_CNN](https://github.com/ArunSehrawat/Image_classification_with_CNN/assets/99533657/169936fb-72c7-436c-b069-2e43f0ad49ae)
+
+
+![acc_loss_CNN](https://github.com/ArunSehrawat/Image_classification_with_CNN/assets/99533657/6c1f2025-db88-411f-b3e3-22e2779d40a4)
