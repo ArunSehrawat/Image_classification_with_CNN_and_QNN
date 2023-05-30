@@ -1,1 +1,4 @@
-# Image_classification_with_CNN
+# Image classification with CNN
+
+In the attached Jupyter notebook, I have presented the convolutional neural networks (CNNs) for image classification,
+where the implementation is done using PyTorch. The CNNs are trained on the "MNIST" and "FashionMNIST" datasets (for more details, see the notebook)
