@@ -10,7 +10,8 @@ The "FashionMNIST" dataset covers ten different clothing categories, including T
 
 -----
 
-**(1)** In an attached Jupyter notebook, I have presented the **Convolutional Neural Networks (CNNs)** for the task.
+**(1)** In the attached Jupyter notebook __Image_classification_with_CNN__, I have presented the **Convolutional Neural Networks (CNNs)** for the task. 
+
 
 ![LeNET5](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/21d097f2-d958-4100-bf90-0ffdb3360017)
 
@@ -18,9 +19,18 @@ Image (LeNET-5) source: http://vision.stanford.edu/cs598_spring07/papers/Lecun98
 
 -----
 
-**(2)** In another notebook, I have presented the **Quantum Neural Network (QNN)** for the task.
+**(2)** In the notebook __Image_classification_with_QNN__, I have presented the **Quantum Neural Network (QNN)** for the task. Here, the QNN consists of quantum layers followed by a classical layer at the end.
 
 ![QNN](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/febb497c-1dd7-4517-8ea4-4c1871c6540b)
+
+-----
+
+Unlike __Image_classification_with_QNN__, 
+we are taking only two classes 0 and 1 and taking __only quantum layers__ in the notebook __Image_classification_with_QNN_2__.
+
+
+![QNN2](https://github.com/ArunSehrawat/Image_classification_with_CNN_and_QNN/assets/99533657/8ee8b2fa-d71e-4850-9531-028c31ffb79e)
+
 
 -----
 
