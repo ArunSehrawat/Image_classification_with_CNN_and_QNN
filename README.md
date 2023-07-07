@@ -25,7 +25,7 @@ Image (LeNET-5) source: http://vision.stanford.edu/cs598_spring07/papers/Lecun98
 
 -----
 
-Unlike __Image_classification_with_QNN__, 
+**(3)** Unlike __Image_classification_with_QNN__, 
 we are taking only two classes 0 and 1 and taking __only quantum layers__ in the notebook __Image_classification_with_QNN_2__.
 
 
@@ -35,9 +35,9 @@ we are taking only two classes 0 and 1 and taking __only quantum layers__ in the
 -----
 
 I have also uploaded:  
-**(3) quantum circuit simulator** (used in QNN)
+**(4) quantum circuit simulator** (used in QNN)
 
-**(4)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
+**(5)** a notebook with **quantum circuit examples** to test the quantum circuit simulator
 
 -------
 
